@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25f0cf06aa528294f851498a7f7167a1, type: 3}
+  m_Name: MaryGlitchSettings
+  m_EditorClassIdentifier: 
+  BandAxisLength: 0.2
+  BandAxisCenter: 0.1
+  BandSpeed: 0.15
+  TransitionLength: 0.1
+  BandAxis: {x: 0, y: 1, z: 0}
+  BandSpeed1: 0
+  BandOffset1: -0.045
+  BandSpeed2: 2
+  BandOffset2: 0.09
+  BandSpeed3: -1.18
+  BandOffset3: 0.6
+  BandSpeed4: 1.54
+  BandOffset4: 0.129
